@@ -1,10 +1,10 @@
 # Site settings
-title: Rails Assessment Project Booktopia
+title: My Journey to become a Rails Developer
 header-img: img/home-bg.png
 email: enoch2k2@hotmail.com
 copyright_name: Enoch2k2
 description: > # this means to ignore newlines until "baseurl:"
-  Rails Final Assessment
+  and making it look good
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Enoch2k2
